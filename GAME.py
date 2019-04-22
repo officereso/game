@@ -12,7 +12,19 @@ def cbi(part):
             print(headGasket)
     if part == "block" and block[1] == 2:
         block[1] = 1
+"""cjlkdsjaflkjflajfsakf
+sajfd
+sajf
+sjaf
 
+
+dsfa
+dsa
+f
+ds
+
+
+fdsfds"""
 
 temp = save.readline()
 temp.split(' ')
